@@ -9,5 +9,5 @@ print(2*2+2) # "3st program"
 print(2*(2+2))
 print ((2*2+2)==(2*(2+2)))
 print()
-print("3st program")
-print(int(float('123.456')*10)%10)
+print("4st program")
+print(int(float('123.456')*10)%10) # "4st program"
